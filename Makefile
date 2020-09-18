@@ -1,4 +1,4 @@
-#Makefile for cpp files, to chnage to c files change g++ to gcc and change .cpp to .c
+#Makefile for c files, to chnage to cpp files change gcc to g++ and change .c to .cpp
 
 
 # Config
